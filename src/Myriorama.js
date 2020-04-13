@@ -26,9 +26,11 @@ const Myriorama = (props) => {
         </div>
         <br/>
         <div className = 'overflow-wrapper'>
+            <div className = 'centering'></div>
             <div style = {props.init ? cardStyle:{}} className = {props.init ? "myriorama":"hide"}>
-            {cards}
+                {cards}
             </div>
+            <div className = 'centering'></div>
         </div>
         <p>Refresh the page to upload a new image!</p>
     </section>
