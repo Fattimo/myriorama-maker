@@ -1,3 +1,16 @@
+TODO:
+make css cool as in add animations to stuff
+
+remake this app into a slide the tiles 3x3 image matching game
+
+
+
+
+this project was made for the georgia tech engl1102 optical toy project for dr patrick ellis.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
